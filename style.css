@@ -32,7 +32,7 @@ select:focus {
 }
 
 
-/*Mobile First*/
+/*Mobile*/
 .todo {
     margin: 0 16px 0 16px;
     display: flex;
@@ -60,7 +60,7 @@ section header {
     color: #464646;
 }
 
-/*Sessão Title*/
+/*Title*/
 
 section header h3.menu-title {
     margin-left: 8px;
@@ -429,7 +429,7 @@ section.footer div.rodape {
         height: 108px;
     }
 
-    /*experiências acadêmicas*/
+    /*Formación*/
 
     section.academic div.courses {
         display: flex;
@@ -444,7 +444,7 @@ section.footer div.rodape {
         width: 50%;
     }
 
-    /*expeirência profissional*/
+    /*Experiencia*/
 
     section.experience div.experiencia-box {
         display: flex;
@@ -507,7 +507,7 @@ section.footer div.rodape {
         line-height: 23px;
     }
 
-    /*Sessão sobre*/
+    /*About*/
 
     section.about {
         padding: 62px 50px;
@@ -543,7 +543,7 @@ section.footer div.rodape {
         height: 108px;
     }
 
-    /*Formação Acadêmica*/
+    /*Formacion*/
 
     section.academic div.courses-box {
         width: 380px;
@@ -562,7 +562,7 @@ section.footer div.rodape {
         margin-top: 82px;
     }
 
-    /*Experiência Profissional*/
+    /*Experiencia*/
 
     section.experience div.experiencia-box {
         display: flex;
@@ -590,7 +590,7 @@ section.footer div.rodape {
         width: 50%;
     }
 
-    /*Contato*/
+    /*Contacto*/
 
     section.formcontato div.contact {
         display: flex;
