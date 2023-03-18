@@ -179,10 +179,10 @@ section.hobbies-section div.hobbies-line div.hobbies-box ul {
 
 }
 
-/* Formación Academica*/
+/* Formación*/
 
 section.academic {
-    background-color: #fdfdfd;
+    background-color: #fce187;
 }
 
 section.academic div.courses {
@@ -365,7 +365,7 @@ form.form button {
 
 section.footer {
     height: 10vh;
-    background-color: white;
+    background-color: #fce187;
 }
 
 section.footer div.rodape {
@@ -527,8 +527,9 @@ section.footer div.rodape {
 
     section.skills div.skills-line div.skills-box {
         margin: 22px 15px 22px 0px;
-        width: 108px;
-        height: 118px;
+        width: 80px;
+        height: 80px;
+        border-radius: 25%;
     }
 
     /*Hobbies*/
@@ -539,19 +540,22 @@ section.footer div.rodape {
 
     section.hobbies-section div.hobbies-line div.hobbies-box {
         margin: 22px 15px 22px 0px;
-        width: 108px;
-        height: 108px;
+        width: 80px;
+        height: 80px;
+        border-radius: 25%;
     }
 
     /*Formacion*/
 
     section.academic div.courses-box {
+
         width: 380px;
 
     }
 
     section.academic div.courses ul li.course-img img {
         width: 70%;
+        border-radius: 25%;
     }
 
     section.academic div.courses ul li.course-img {
