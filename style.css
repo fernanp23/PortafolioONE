@@ -429,7 +429,7 @@ section.footer div.rodape {
         height: 108px;
     }
 
-    /*Formación*/
+    /*Formación academica*/
 
     section.academic div.courses {
         display: flex;
@@ -549,17 +549,17 @@ section.footer div.rodape {
 
     section.academic div.courses-box {
 
-        width: 380px;
+        width: 340px;
 
     }
 
     section.academic div.courses ul li.course-img img {
-        width: 70%;
-        border-radius: 25%;
+        width: 50%;
     }
 
     section.academic div.courses ul li.course-img {
-        padding: 30px 30px;
+        padding: 10px 10px;
+        border-radius: 25px;
     }
 
     section.academic {
