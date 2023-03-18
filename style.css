@@ -3,7 +3,7 @@
 
 body {
     box-sizing: border-box;
-    background-color: #dfb80b;
+    background-color: #fce187;
     cursor: pointer;
     font-family: 'Raleway';
     margin: 0;
@@ -225,7 +225,7 @@ section.academic div.courses ul li.course-subtitle {
     text-align: start;
 }
 
-/* experiência*/
+/* Experiencia*/
 
 section.experience {
     margin-top: 13px;
@@ -281,7 +281,7 @@ section.experience img {
 }
 
 
-/*Contato*/
+/*Contacto*/
 
 section.formcontato {
     background-color: #EAF2FD;
@@ -361,7 +361,7 @@ form.form button {
     margin: 32px 0;
 }
 
-/*footeer*/
+/*footer*/
 
 section.footer {
     height: 10vh;
