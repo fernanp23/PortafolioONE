@@ -111,7 +111,8 @@ section.title img.profile {
 /*About*/
 
 section.about {
-    background-color: #fbfbfb;
+    background-color: #ffffff;
+    border-radius: 15px;
 }
 
 
@@ -140,10 +141,11 @@ section.skills div.skills-line div.skills-box {
     justify-content: flex-end;
     align-items: flex-start;
     padding: 16px;
-    background-color: #fbfbfb;
+    background-color: #ffffff;
     margin: 22px 0 22px 0;
     width: 156px;
     height: 118px;
+    border-radius: 15px;
 }
 
 section.skills div.skills-line div.skills-box ul {
@@ -171,6 +173,7 @@ section.hobbies-section div.hobbies-line div.hobbies-box {
     margin: 15px 0 22px 0;
     width: 156px;
     height: 118px;
+    border-radius: 15px;
 }
 
 section.hobbies-section div.hobbies-line div.hobbies-box ul {
@@ -262,6 +265,7 @@ section.experience div.experiencia-box span.experience-repo button {
     border: 1px solid #2A7AE4;
     color: #2A7AE4;
     box-sizing: border-box;
+    border-radius: 10px;
 }
 
 section.experience div.experiencia-box span.experience-demo button {
@@ -274,6 +278,7 @@ section.experience div.experiencia-box span.experience-demo button {
     border: 1px solid #2A7AE4;
     background: #2A7AE4;
     color: white;
+    border-radius: 10px;
 }
 
 section.experience img {
@@ -453,6 +458,7 @@ section.footer div.rodape {
 
     section.experience div.experiencia-box img {
         width: 100%;
+        border-radius: 25px;
     }
 
 }
@@ -529,7 +535,7 @@ section.footer div.rodape {
         margin: 22px 15px 22px 0px;
         width: 80px;
         height: 80px;
-        border-radius: 25%;
+        border-radius: 20px;
     }
 
     /*Hobbies*/
@@ -542,7 +548,7 @@ section.footer div.rodape {
         margin: 22px 15px 22px 0px;
         width: 80px;
         height: 80px;
-        border-radius: 25%;
+        border-radius: 20px;
     }
 
     /*Formacion*/
@@ -629,7 +635,6 @@ section.footer div.rodape {
         font-size: 16px;
         font-weight: 500;
         text-align: center;
-        padding: 1%;
     }
 }
 
