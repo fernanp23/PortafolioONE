@@ -1,6 +1,40 @@
 /*CSS Reset / Normalize*/
 
+.custom-shape-divider-top-1679242226 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
 
+.custom-shape-divider-top-1679242226 svg {
+    position: relative;
+    display: block;
+    width: calc(130% + 1.3px);
+    height: 49px;
+}
+
+.custom-shape-divider-top-1679242226 .shape-fill {
+    fill: #FFC326;
+}
+
+/** For tablet devices **/
+@media (min-width: 768px) and (max-width: 1023px) {
+    .custom-shape-divider-top-1679242226 svg {
+        width: calc(130% + 1.3px);
+        height: 49px;
+    }
+}
+
+/** For mobile devices **/
+@media (max-width: 767px) {
+    .custom-shape-divider-top-1679242226 svg {
+        width: calc(130% + 1.3px);
+        height: 49px;
+    }
+}
 body {
     box-sizing: border-box;
     background-color: #fce187;
